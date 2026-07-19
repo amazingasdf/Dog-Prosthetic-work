@@ -1,6 +1,6 @@
 # Canine Assistive Prosthetics
 
-**Author:** Vihaan | Orlando Science High School, Class of 2027
+**Author:** Vihaan | Orlando Science High School, Class of 2028
 **Started:** July 2026 | **Status:** Foundation phase (private repo)
 
 ## Goal
@@ -12,6 +12,7 @@ Design, prototype, and iterate a 3D-printed below-knee (transtibial) prosthetic 
 <!-- Vihaan: write 3-4 sentences in your own words. What drew you to this?
 What did you see (robotics, the lab, a specific dog) that made this feel worth building?
 This paragraph becomes essay material later — keep it honest and specific. -->
+There has always been this interest for me in how prosthetics work. I've seen dogs when traveling have missing limbs, and this gave me a thought, "What if I could design a cheap prosthetic limb for these dogs?". This was the driving thought in what I wanted to do for a project. Also, the curiosity of how the anatomy of different animals' legs made me think about how I could replicate that utilizing different tools. I wanted to put my CAD skills to the test, and learn how to design a prosthetic tool that could be adjusted based off of the different measurments of a dog.
 
 ## Approach
 
